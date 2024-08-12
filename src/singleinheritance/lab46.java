@@ -1,4 +1,4 @@
-package ex_08092024;
+package singleinheritance;
 
 public class lab46 {
     public static void main(String[] args) {
